@@ -1,0 +1,3 @@
+exports.LANGUAGES = {
+    FRENCH: 'fr'
+}
